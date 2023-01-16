@@ -24,10 +24,5 @@ LinkedIn: [[https://www.linkedin.com/in/hala-abuzant](https://www.linkedin.com/i
 [![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white&link=https://github.com/search?q=python)](https://github.com/search?q=python)
 
 
-[![HTML](https://img.shields.io/github/languages/top/yourusername/yourrepo?color=%23E44D27&label=HTML)](https://github.com/yourusername/yourrepo)
-[![Java](https://img.shields.io/github/languages/top/yourusername/yourrepo?color=%23ED8B00&label=Java)](https://github.com/yourusername/yourrepo)
-[![JavaScript](https://img.shields.io/github/languages/top/yourusername/yourrepo?color=%23F7DF1E&label=JavaScript)](https://github.com/yourusername/yourrepo)
-[![React](https://img.shields.io/github/languages/top/yourusername/yourrepo?color=%2361DAFB&label=React)](https://github.com/yourusername/yourrepo)
-[![Python](https://img.shields.io/github/languages/top/yourusername/yourrepo?color=%233776AB&label=Python)](https://github.com/yourusername/yourrepo)
 
 
