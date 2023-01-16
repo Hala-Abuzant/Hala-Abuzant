@@ -11,8 +11,7 @@ In my free time, I enjoy reading about new technologies and experimenting with d
 
 Feel free to check out my portfolio and my Github repos. Don't hesitate to contact me if you have any questions or if you just want to chat!
 
-Email: halaabuzant@example.com
-LinkedIn: [https://www.linkedin.com/in/hala-abuzant](https://www.linkedin.com/in/hala-abuzant)</p>
+
 
 - 📫 How to reach me 
 Email: **halamabuzant@gmail.com**
