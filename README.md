@@ -23,6 +23,6 @@ LinkedIn: [[https://www.linkedin.com/in/hala-abuzant](https://www.linkedin.com/i
 [![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=white&link=https://github.com/search?q=react)](https://github.com/search?q=react)
 [![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white&link=https://github.com/search?q=python)](https://github.com/search?q=python)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) </p>
 
 
