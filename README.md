@@ -5,7 +5,7 @@
 
 I am a full-stack developer from Palestine, with a passion for creating beautiful and functional web applications. 
 
-I have experience with a variety of programming languages and frameworks, including JavaScript, Node.js, React, and Angular. I am always eager to learn new technologies and stay up-to-date with the latest industry trends.
+I have experience with a variety of programming languages and frameworks, including JavaScript, Node.js and React. I am always eager to learn new technologies and stay up-to-date with the latest industry trends.
 
 In my free time, I enjoy reading about new technologies and experimenting with different programming concepts. I am always open to learning new skills, and am excited to be part of the open-source community.
 
