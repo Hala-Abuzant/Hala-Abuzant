@@ -1,10 +1,5 @@
 
-<div align="center">
-  <img src="https://giphy.com/gifs/girl-working-laptop-XeQZbzNuO7OjN0lh1T" alt="Girl working on laptop" width="500" height="auto"/>
-  <br>
-  <br>
-  <p>Girl working on her Apple Laptop</p>
-</div>
+
 
 
 <h1 align="center">Hi 👋, I'm Hala !</h1>
