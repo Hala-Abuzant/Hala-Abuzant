@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
   <img src="https://cdn.iconscout.com/icon/free/png-512/full-stack-developer-1189630.png" alt="Full Stack Developer" width="200"/>
   <br>
