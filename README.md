@@ -1,9 +1,22 @@
 
 
 <h1 align="center">Hi 👋, I'm Hala</h1>
-<h3 align="center">A passionate full stack developer intern from Palestine</h3>
+<p align="center">
 
-- 📫 How to reach me **halamabuzant@gmail.com**
+I am a full-stack developer from Palestine, with a passion for creating beautiful and functional web applications. 
+
+I have experience with a variety of programming languages and frameworks, including JavaScript, Node.js, React, and Angular. I am always eager to learn new technologies and stay up-to-date with the latest industry trends.
+
+In my free time, I enjoy reading about new technologies and experimenting with different programming concepts. I am always open to learning new skills, and am excited to be part of the open-source community.
+
+Feel free to check out my portfolio and my Github repos. Don't hesitate to contact me if you have any questions or if you just want to chat!
+
+Email: halaabuzant@example.com
+LinkedIn: [https://www.linkedin.com/in/hala-abuzant](https://www.linkedin.com/in/hala-abuzant)</p>
+
+- 📫 How to reach me 
+Email: **halamabuzant@gmail.com**
+LinkedIn: [https://www.linkedin.com/in/hala-abuzant]</p>
 
 
 
