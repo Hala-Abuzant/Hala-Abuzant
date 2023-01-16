@@ -15,7 +15,7 @@ Feel free to check out my portfolio and my Github repos. Don't hesitate to conta
 
 - 📫 How to reach me 
 Email: **halamabuzant@gmail.com**
-LinkedIn: [https://www.linkedin.com/in/hala-abuzant]</p>
+LinkedIn: [[https://www.linkedin.com/in/hala-abuzant](https://www.linkedin.com/in/hala-abu-zant/)]</p>
 
 
 
