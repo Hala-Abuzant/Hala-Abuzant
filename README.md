@@ -1,3 +1,10 @@
+```html
+<div align="center">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/full-stack-developer-1189630.png" alt="Full Stack Developer" width="200"/>
+  <br>
+  <br>
+  <p>Full Stack Developer</p>
+</div>
 
 
 <h1 align="center">Hi 👋, I'm Hala !</h1>
