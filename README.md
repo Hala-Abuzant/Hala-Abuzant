@@ -1,9 +1,9 @@
 
 <div align="center">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/full-stack-developer-1189630.png" alt="Full Stack Developer" width="200"/>
+  <img src="https://giphy.com/gifs/girl-working-laptop-XeQZbzNuO7OjN0lh1T" alt="Girl working on laptop" width="500" height="auto"/>
   <br>
   <br>
-  <p>Full Stack Developer</p>
+  <p>Girl working on her Apple Laptop</p>
 </div>
 
 
